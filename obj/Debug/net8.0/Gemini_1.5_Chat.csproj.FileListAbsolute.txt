@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\bin\Debug\net8.0\Gemini_1.5_Chat.exe
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\bin\Debug\net8.0\Gemini_1.5_Chat.deps.json
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\bin\Debug\net8.0\Gemini_1.5_Chat.runtimeconfig.json
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\bin\Debug\net8.0\Gemini_1.5_Chat.dll
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\bin\Debug\net8.0\Gemini_1.5_Chat.pdb
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\obj\Debug\net8.0\Gemini_1.5_Chat.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\obj\Debug\net8.0\Gemini_1.5_Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\obj\Debug\net8.0\Gemini_1.5_Chat.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\obj\Debug\net8.0\Gemini_1.5_Chat.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\obj\Debug\net8.0\Gemini_1.5_Chat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\obj\Debug\net8.0\Gemini_1.5_Chat.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\obj\Debug\net8.0\Gemini_1.5_Chat.dll
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\obj\Debug\net8.0\refint\Gemini_1.5_Chat.dll
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\obj\Debug\net8.0\Gemini_1.5_Chat.pdb
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\obj\Debug\net8.0\Gemini_1.5_Chat.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Gemini_1.5_Chat\obj\Debug\net8.0\ref\Gemini_1.5_Chat.dll
